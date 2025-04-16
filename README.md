@@ -138,7 +138,7 @@ This created a fully reproducible testing pipeline—ideal for **continuous secu
 
 ---
 
-## Step 7: Cleanup and Resource Hygiene
+## Step 7: Cleanup 
 
 Once the assessment was complete, I cleaned up all running containers and resources:
 
