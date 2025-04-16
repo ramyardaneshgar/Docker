@@ -164,4 +164,4 @@ Removing unused containers and images is good **container hygiene**, preventing 
    By using Docker Compose and headless ZAP, I now have a portable security test rig that can be plugged into a **DevSecOps pipeline** for early vulnerability detection.
 
 4. **Scalable Threat Emulation**  
-   This containerized approach can easily scale to multiple target containers (e.g., Juice Shop, bWAPP) and multiple scanners (e.g., Nikto, Burp CLI, Nmap), all coordinated through automation.
+   This containerized approach can easily scale to multiple target containers (Juice Shop, bWAPP) and multiple scanners (Nikto, Burp CLI, Nmap), all coordinated through automation.
